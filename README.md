@@ -1,5 +1,5 @@
 - 👋 Hi,
-  -   I am a 2nd year student at the Technical University of Cluj-Napoca, Computer-Science department.
+  -   I am a 3rd year student at the Technical University of Cluj-Napoca, Computer-Science department.
   
 - 👀 I’m interested in almost everything which is part of this amazing world of computers.
 -  Trying to learn and grow in this everchanging environment of computers
